@@ -1,3 +1,5 @@
+//Menu-driven program to determine whether a number is a  Palindrome, Armstrong, or Perfect Number using Pointers
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
