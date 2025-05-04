@@ -1,5 +1,6 @@
-#include<stdio.h>
+//Menu driven program to Sort a given array
 
+#include<stdio.h>
 
 //using bubble sort
 void bubbleSort(int arr[],int n){
