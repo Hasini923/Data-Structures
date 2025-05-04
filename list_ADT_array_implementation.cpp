@@ -1,3 +1,5 @@
+//Implementation of List ADT using an array of size 5
+
 #include<stdio.h>
 
 #define SIZE 5
